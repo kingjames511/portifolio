@@ -1,0 +1,42 @@
+.tools_container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+    padding: 40px;
+}
+.tools_container div{
+    width: 40%;
+}
+.sub_tool-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   flex-wrap: wrap;
+   flex: 1;
+}
+.sub_tool-container div{
+    width: 150px;
+    height: 70px;
+}
+.icon{
+    width: 40px;
+    height: 20px;
+}
+#para{
+    display: inline;
+    margin-bottom: -20px;
+}
+.tools_detail{
+    width: 300px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.tools_detail h3{
+    color: rgb(9, 36, 213);
+    font-size: 2rem;
+    margin: 5px;
+    font-weight: 800;
+   
+
+}

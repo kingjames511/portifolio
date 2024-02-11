@@ -1,0 +1,85 @@
+.footer_container{
+    width: 100%;
+    height: 300px;
+    margin-top: 140px;
+    position: relative;
+}
+.title{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+
+.footer_container h3{
+    position: absolute;
+    letter-spacing: 10px;
+    font-size: 7rem;
+    font-style: italic;
+    color: #103ae2;
+    opacity: 0.2;
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+#yo{
+    position: absolute;
+    top: -55px;
+
+}
+.contactme{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    top: 150px;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+.contactme h3{
+    text-align: center;
+    color: white;
+    width: 450px;
+    font-size: 20px;
+    margin: 8px;
+    position: relative;
+}
+.contactme input{
+    width: 300px;
+    height: 60px;
+    background-color: transparent;
+    border: 3px solid  rgb(5, 5, 98);
+    color: white;
+    padding: 6px;
+    font-size: 20px;
+    /* outline: 3px solid blue; */
+}
+#btn{
+    position: absolute;
+    width: 100px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    padding: 3px 10px;
+    left:53%;
+    height: 45px;
+    background-color: rgb(5, 5,98);
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    box-shadow: rgba(0,0,0,035)0px 5px 15px;
+    background-color: transparent;
+
+}
+footer p {
+    color: white;
+    font-size: 18px;
+}

@@ -1,0 +1,30 @@
+.personal_info{
+    position: absolute;
+    top: 180px;
+    left:200px;
+}
+.wave{
+    position: absolute;
+    top: 22rem;
+    left: -38px;
+}
+@media screen and (max-width: 769px) {
+    .personal_info{
+        position: absolute;
+        top: 180px;
+        left:100px;
+    }
+    .wave{
+        position: absolute;
+        top: 25rem;
+        left: -38px;
+    }
+}
+.personal_info h2{
+    color: white;
+    text-transform: capitalize;
+    font-weight:600;
+    line-height: 1.3;
+
+
+}

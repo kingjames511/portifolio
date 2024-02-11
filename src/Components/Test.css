@@ -1,0 +1,38 @@
+.test_container{
+    position: relative;
+}
+.test_container h3{
+    position: absolute;
+    letter-spacing: 10px;
+    font-size: 7rem;
+    font-style: italic;
+    color: #080d21;
+    opacity: 0.2;
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+.test_head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 53px;
+}
+.carousal_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+.carousal_container div{
+    background-color: white;
+    padding: 10px;
+    width: 350px;
+    margin: 10px;
+}
+#p2{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+}

@@ -1,0 +1,42 @@
+.pro_head{
+    border: 1px solid blue ;
+    border-radius: 70%;
+}
+.pro_head h3{
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 600;
+}
+.Project_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.project{
+    text-align: center;
+    font-size: 18px;
+    padding: 8px;
+    margin: 9px;
+}
+.project_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    overflow: auto;
+}
+.list{
+    width: 250px;
+    height: 270px;
+    
+    background-color: white;
+
+}
+.list_image{
+    width: 250px;
+    height: 200px;
+}
+.list p{
+    padding: 0 5px;   ;
+}
