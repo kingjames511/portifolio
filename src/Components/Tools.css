@@ -1,36 +1,58 @@
-.tools_container{
+#tools-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    gap: 100px;
+    gap: 70px;
+    
     padding: 40px;
+} 
+
+@media screen and (max-width:600px){
+    .tools_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
 }
-.tools_container div{
-    width: 40%;
+#tools{
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    text-transform: capitalize;
 }
+}
+
+
+
 .sub_tool-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
    flex-wrap: wrap;
-   flex: 1;
+   
 }
-.sub_tool-container div{
+.sub_tool-container > div{
     width: 150px;
     height: 70px;
 }
 .icon{
     width: 40px;
-    height: 20px;
+    height: 40px;
+    margin: 0 4px;
+    margin-top: 30px;
+    border-radius: 100%;
 }
 #para{
     display: inline;
     margin-bottom: -20px;
 }
 .tools_detail{
-    width: 300px;
+    width: 440px;
+    padding: 7px;
     font-size: 18px;
     text-transform: capitalize;
+  
 }
 .tools_detail h3{
     color: rgb(9, 36, 213);
@@ -39,4 +61,4 @@
     font-weight: 800;
    
 
-}
+} 

@@ -3,28 +3,71 @@
     top: 180px;
     left:200px;
 }
+ #writer{
+    font-size: 28px;
+    letter-spacing: 10px;
+}
+.personal_info h2{
+    font-size: 28px;
+    letter-spacing: 10px;
+}
 .wave{
     position: absolute;
     top: 22rem;
     left: -38px;
 }
-@media screen and (max-width: 769px) {
+.home_container{
+    width: 100%;
+    height: 450px
+}
+
+@media screen and (max-width: 600px) {
+    .home_container{
+        width: 100%;
+        height: 300px;
+        background-color: red;
+    }
+    .wave{
+        top: 16.2rem;
+    }
+    .personal_info{
+        position: absolute;
+        top: 90px;
+        left:20px;
+    }
+    .personal_info h2{
+        font-size: 18px;
+        letter-spacing: 0;
+        margin-top: 5px;
+           }
+}
+/* @media screen and (max-width: 769px) {
     .personal_info{
         position: absolute;
         top: 180px;
         left:100px;
+    }
+    .personal_info h2{
+        font-size: 28px;
+        letter-spacing: 2px;
     }
     .wave{
         position: absolute;
         top: 25rem;
         left: -38px;
     }
-}
-.personal_info h2{
+} */
+#writer{
     color: white;
     text-transform: capitalize;
     font-weight:600;
     line-height: 1.3;
 
 
+}
+.personal_info h2{
+    color: white;
+    text-transform: capitalize;
+    font-weight:600;
+    line-height: 1.3;
 }

@@ -6,4 +6,13 @@
 html{
     /* overflow-y: hidden; */
     background-color: #ececec;
+     overflow-x:  hidden;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+@media screen and (max-width: 600px) {
+    html{
+        
+    }
 }

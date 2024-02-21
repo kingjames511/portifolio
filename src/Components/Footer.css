@@ -41,10 +41,19 @@
 .contactme h3{
     text-align: center;
     color: white;
-    width: 450px;
+    /* width: 450px;  */
     font-size: 20px;
     margin: 8px;
     position: relative;
+}
+@media screen and (max-width:600px) {
+    .contt{
+        width: auto;
+    }
+    #gb{
+        font-size: 12px;
+        background-color: red;
+    }
 }
 .contactme input{
     width: 300px;
@@ -79,7 +88,17 @@ footer{
     background-color: transparent;
 
 }
+.social_media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social_media i{
+    width: 70px;
+    height: 50px;
+}
 footer p {
     color: white;
-    font-size: 18px;
+    text-align: center;
+    /* font-size: 12px; */
 }
