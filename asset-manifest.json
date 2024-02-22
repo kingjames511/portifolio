@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4836a2d.css",
-    "main.js": "/static/js/main.f9e3f900.js",
-    "static/media/Screenshot (2).png": "/static/media/Screenshot (2).d15478d496494b9978e2.png",
-    "static/media/Screenshot (6).png": "/static/media/Screenshot (6).a74125340fdb098634c1.png",
-    "static/media/WhatsApp_Image_2024-02-20_at_10.08.15_c5233db0-removebg-preview.png": "/static/media/WhatsApp_Image_2024-02-20_at_10.08.15_c5233db0-removebg-preview.33d44531bca783782436.png",
-    "static/media/Screenshot (4).png": "/static/media/Screenshot (4).4b15ad94a7108bc146ad.png",
-    "static/media/download-removebg-preview (1).png": "/static/media/download-removebg-preview (1).64c997cf52cadf28fd08.png",
-    "static/media/download-removebg-preview.png": "/static/media/download-removebg-preview.556cab8b3d7e13614fbc.png",
-    "static/media/download__3_-removebg-preview.png": "/static/media/download__3_-removebg-preview.61b00fee45d1d69933c6.png",
-    "static/media/download__2_-removebg-preview.png": "/static/media/download__2_-removebg-preview.8f59820eb0200aba0f3b.png",
-    "static/media/download__1_-removebg-preview.png": "/static/media/download__1_-removebg-preview.612504066052d4b01bbc.png",
-    "static/media/download__1_-removebg-preview (1).png": "/static/media/download__1_-removebg-preview (1).8e3f79f0ba1387673dae.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.f4836a2d.css.map": "/static/css/main.f4836a2d.css.map",
-    "main.f9e3f900.js.map": "/static/js/main.f9e3f900.js.map"
+    "main.css": "/portifolio/static/css/main.ed645b97.css",
+    "main.js": "/portifolio/static/js/main.3df8c48b.js",
+    "static/media/Screenshot (2).png": "/portifolio/static/media/Screenshot (2).d15478d496494b9978e2.png",
+    "static/media/Screenshot (6).png": "/portifolio/static/media/Screenshot (6).a74125340fdb098634c1.png",
+    "static/media/WhatsApp_Image_2024-02-20_at_10.08.15_c5233db0-removebg-preview.png": "/portifolio/static/media/WhatsApp_Image_2024-02-20_at_10.08.15_c5233db0-removebg-preview.33d44531bca783782436.png",
+    "static/media/Screenshot (4).png": "/portifolio/static/media/Screenshot (4).4b15ad94a7108bc146ad.png",
+    "static/media/download-removebg-preview (1).png": "/portifolio/static/media/download-removebg-preview (1).64c997cf52cadf28fd08.png",
+    "static/media/download-removebg-preview.png": "/portifolio/static/media/download-removebg-preview.556cab8b3d7e13614fbc.png",
+    "static/media/download__3_-removebg-preview.png": "/portifolio/static/media/download__3_-removebg-preview.61b00fee45d1d69933c6.png",
+    "static/media/download__2_-removebg-preview.png": "/portifolio/static/media/download__2_-removebg-preview.8f59820eb0200aba0f3b.png",
+    "static/media/download__1_-removebg-preview.png": "/portifolio/static/media/download__1_-removebg-preview.612504066052d4b01bbc.png",
+    "static/media/download__1_-removebg-preview (1).png": "/portifolio/static/media/download__1_-removebg-preview (1).8e3f79f0ba1387673dae.png",
+    "static/media/slick.svg": "/portifolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portifolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portifolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portifolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portifolio/index.html",
+    "main.ed645b97.css.map": "/portifolio/static/css/main.ed645b97.css.map",
+    "main.3df8c48b.js.map": "/portifolio/static/js/main.3df8c48b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4836a2d.css",
-    "static/js/main.f9e3f900.js"
+    "static/css/main.ed645b97.css",
+    "static/js/main.3df8c48b.js"
   ]
 }
