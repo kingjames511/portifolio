@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 My Portfolio
 
-# Run and deploy your AI Studio app
+A modern, responsive portfolio website built with **React** and **Tailwind CSS** to showcase my projects, skills, and experience.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/59a2df21-08d8-4893-9c2f-69fe1bf27441
+## ✨ Features
 
-## Run Locally
+* ⚡ Fast and responsive design
+* 🌙 Dark-themed modern UI
+* 🎯 Smooth animations and transitions
+* 📱 Mobile-friendly layout
+* 🧩 Reusable React components
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* React
+* Tailwind CSS
+* JavaScript (ES6+)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/kingjames511/portifolio.git
+cd your-repo-name
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the app
+
+```bash
+npm run dev
+```
